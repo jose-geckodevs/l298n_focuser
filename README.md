@@ -1,10 +1,5 @@
-# Astroberry DIY
-Astroberry DIY provides the INDI drivers for Raspberry Pi devices:
-* Astroberry Focuser - stepper motor driver with absolute and relative position capabilities and autofocus with INDI client such as KStars and Ekos
-* Astroberry Relays - relays switch board allowing for remote switching up to 4 devices
-* Astroberry System - system parameters monitoring and system control
-
-This driver has been adapted from Astroberry Focuser to support the L298N controller. Based on the following design:
+# L298N motor controller driver
+This driver has been adapted from Astroberry Focuser DIY drivers to support the L298N controller. Based on the following design:
 https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/
 
 
