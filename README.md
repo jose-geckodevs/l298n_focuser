@@ -31,7 +31,7 @@ You need to compile the software from sources.
 Download and install required libraries before compiling. See [INDI site](http://indilib.org/download.html) for more details.
 In most cases it's enough to run:
 ```
-sudo apt-get install cmake libindi-dev libgpiod-dev
+sudo apt-get install cmake libindi-dev libgpiod-dev build-essential
 ```
 Then you can compile the driver:
 ```
